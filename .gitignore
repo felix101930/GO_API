@@ -1,0 +1,12 @@
+# Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go workspace files
+*.test
+
+# Dependency directories
+vendor/
