@@ -69,7 +69,7 @@ func getBookById(id string ) (*book, error) {
 		}
 	}
 
-	return nil, errors.New("Book not found")
+	return nil, errors.New("book not found")
 
 }
 
