@@ -8,5 +8,7 @@
 # Go workspace files
 *.test
 
+#Env
+.env
 # Dependency directories
 vendor/
